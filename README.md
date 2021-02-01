@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Adriana Toledo
 #### I am full stack web developer
-![I am full stack web developer]<img src='https://courses.edx.org/assets/courseware/v1/f3d6441889fde5271aea42355c41c8dc/asset-v1:HarvardX+DigHum_01+1T2020+type@asset+block/course_graphic_banner.jpg' alt='banner' height='290'>
+![I am full stack web developer](<img src='https://courses.edx.org/assets/courseware/v1/f3d6441889fde5271aea42355c41c8dc/asset-v1:HarvardX+DigHum_01+1T2020+type@asset+block/course_graphic_banner.jpg' alt='banner' height='290'>)
 
 As a literature major turned web developer, I bring an interdisciplinary approach to problem solving. Currently a student at Lambda School, I am always looking for challenges and opportunities to use my critical thinking skills. 
 
