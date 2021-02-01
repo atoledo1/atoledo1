@@ -9,5 +9,6 @@ Skills:  REACT / JS / HTML / CSS / PYTHON/
 - 📫 How to reach me: atoledosantiago1@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atoledo1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ats2012/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atoledo1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ats2012/)
+[<img src='https://cdn-images-1.medium.com/max/1200/1*z7fla8tKXFRrozG5dmTBzw.png' alt='codesignal' height='40'>](https://app.codesignal.com/profile/adriana_t2) 
 
