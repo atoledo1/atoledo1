@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Adriana Toledo
 #### I am full stack web developer
-<img src=https://www.internetmarketingninjas.com/seo-tools/favicon-generator-crop-images/img/c3f862cdd5f2b0beb87ac991139c13df_new1.jpg>
+<img src=https://user-images.githubusercontent.com/61773059/107457383-94373d00-6b17-11eb-927e-3cb0502f98ec.jpg>
 
 As a literature major turned web developer, I bring an interdisciplinary approach to problem solving. Currently a student at Lambda School, I am always looking for challenges and opportunities to use my critical thinking skills. 
 
