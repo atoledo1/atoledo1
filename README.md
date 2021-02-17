@@ -3,7 +3,8 @@
 
 <img src=https://user-images.githubusercontent.com/61773059/107457383-94373d00-6b17-11eb-927e-3cb0502f98ec.jpg>
 
-As a literature major turned web developer, I bring an interdisciplinary approach to problem solving. Recently graduaded from Lambda School, I am always looking for challenges and opportunities to use my critical thinking skills. 
+As a literature major turned full stack web developer, I bring an interdisciplinary approach to building and problem solving that allows me to find creative and innovative solutions. Always passionate about learning, I am constantly looking for new challenges. I particularly enjoy exploring the intersections of technology, education and the humanities. 
+ 
 
 Skills:  REACT / JS / HTML / CSS / PYTHON / REDUX / NODE
 
