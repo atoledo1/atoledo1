@@ -3,9 +3,7 @@
 
 <img src=https://user-images.githubusercontent.com/61773059/107457383-94373d00-6b17-11eb-927e-3cb0502f98ec.jpg>
 
-As a full stack web developer, I bring an interdisciplinary approach for the development of innovative solutions. From building apps from the ground up to finding bugs and improving functionality, I am quick to adapt to changing circumstances without lowering the quality of my work.
-
- My background in research serves me as a highly effective tool not only for dissecting problems but to pinpoint underdeveloped or unexplored areas. While I enjoy examining the intersections of technology with other disciplines such as education,  producing high quality intuitive applications is my main goal as a developer. 
+I approach web development from an interdisciplinary perspective in order to deliver innovative solutions. My background in research serves me as a highly effective tool not only for dissecting problems but to pinpoint underdeveloped or unexplored areas. While I enjoy examining the intersections of technology with other disciplines such as education, producing high quality intuitive applications is my main goal as a developer. 
 
  
 
