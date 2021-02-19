@@ -1,6 +1,6 @@
 
   <h3 align="center">
-Hi there 👋 I'm Adriana, a full stack web developer 
+Hi there 👋 I'm Adriana, a Full Stack Web Developer 
 </h3>
 <p align="center">
   <img src=https://user-images.githubusercontent.com/61773059/108450190-5c707980-722a-11eb-914e-74c029a1f6af.jpg> 
