@@ -1,14 +1,14 @@
-<p align="center">
-  <h3>
+
+  <h3 align="center">
 Hi there 👋 I'm Adriana Toledo Santiago, a full stack web developer 
 </h3>
+<p align="center">
   <img src=https://user-images.githubusercontent.com/61773059/108450190-5c707980-722a-11eb-914e-74c029a1f6af.jpg> 
-
-
+</p>
 
 I approach web development from an interdisciplinary perspective in order to deliver innovative solutions. My background in research allows me not only to dissect problems but to pinpoint underdeveloped or unexplored areas. 
 While I enjoy examining the intersections of technology with other disciplines, producing high quality intuitive applications is my main goal as a developer. I am always looking for new challenges and to make valuable contributions with my problem solving capabilities and quick adaptability. 
-</p>
+
 
 
 Skills:  REACT / JS / HTML / CSS / PYTHON / REDUX / NODE
