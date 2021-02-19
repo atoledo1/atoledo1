@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Adriana Toledo
 #### I am full stack web developer 
 
-<img src=https://user-images.githubusercontent.com/61773059/107457383-94373d00-6b17-11eb-927e-3cb0502f98ec.jpg>
+<img src=https://user-images.githubusercontent.com/61773059/108450190-5c707980-722a-11eb-914e-74c029a1f6af.jpg>
 
 I approach web development from an interdisciplinary perspective in order to deliver innovative solutions. My background in research allows me not only to dissect problems but to pinpoint underdeveloped or unexplored areas. 
 While I enjoy examining the intersections of technology with other disciplines, producing high quality intuitive applications is my main goal as a developer. I am always looking for new challenges and to make valuable contributions with my problem solving capabilities and quick adaptability. 
