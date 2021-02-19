@@ -3,7 +3,10 @@
 
 <img src=https://user-images.githubusercontent.com/61773059/107457383-94373d00-6b17-11eb-927e-3cb0502f98ec.jpg>
 
-As a literature major turned full stack web developer, I bring an interdisciplinary approach to building and problem solving that allows me to find creative and innovative solutions. Always passionate about learning, I am constantly looking for new challenges. I particularly enjoy exploring the intersections of technology, education and the humanities. 
+As a full stack web developer, I bring an interdisciplinary approach for the development of innovative solutions. From building apps from the ground up to finding bugs and improving functionality, I am quick to adapt to changing circumstances without lowering the quality of my work.
+
+ My background in research serves me as a highly effective tool not only for dissecting problems but to pinpoint underdeveloped or unexplored areas. While I enjoy examining the intersections of technology with other disciplines such as education,  producing high quality intuitive applications is my main goal as a developer. 
+
  
 
 Skills:  REACT / JS / HTML / CSS / PYTHON / REDUX / NODE
