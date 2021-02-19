@@ -8,7 +8,7 @@ Hi there 👋 I'm Adriana, a Full Stack Web Developer
 
 ⦾ I approach web development from an interdisciplinary perspective to reach innovative solutions
 
-⦾ My background in research is a valuable tool for solving complex problems and finding unexplored ideas for future development
+⦾ I use my research background as a tool for solving complex problems and finding unexplored ideas for future development
 
 ⦾ I'm always looking for new challenges and learning experiences
 
