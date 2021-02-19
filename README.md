@@ -16,7 +16,7 @@ Hi there 👋 I'm Adriana, a Full Stack Web Developer
 
 ⦾ I'm passionate about making valuable contributions and solving problems
 
-⦾ I enjoy finding the intersections of technology, education and the arts 
+⦾ I enjoy studying the intersections of technology, education and the arts 
 
 
 Skills:
