@@ -17,7 +17,7 @@ I am always looking for new challenges and am passionate about using my problem 
 
 Skills:
 
-React / JavaScript / HTML / CSS / Python / Redux / Node / SQL / Cypress / Jest / Express / Knex/ Git / LaTex
+React / JavaScript / HTML / CSS / Python / Redux / Node / SQL / Cypress / Jest / Express / Knex/ Git / LaTeX
 
 - 📫 How to reach me: atoledosantiago1@gmail.com 
 
