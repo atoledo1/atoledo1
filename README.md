@@ -15,8 +15,7 @@ While I enjoy examining the intersections of technology with other disciplines, 
 I am always looking for new challenges and am passionate about using my problem solving capabilities and quick adaptability to make valuable contributions.
 
 
-
-Skills:  REACT / JS / HTML / CSS / PYTHON / REDUX / NODE
+Skills:  REACT.JS / JAVASCRIPT / HTML / CSS / PYTHON / REDUX / NODE.JS / SQL / CYPRESS / JEST / EXPRESS.JS / KNEX.JS / GIT
 
 - 📫 How to reach me: atoledosantiago1@gmail.com 
 
