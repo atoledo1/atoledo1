@@ -6,13 +6,13 @@ Hi there 👋 I'm Adriana, a Full Stack Web Developer
   <img src=https://user-images.githubusercontent.com/61773059/108450190-5c707980-722a-11eb-914e-74c029a1f6af.jpg> 
 </p>
 
-⦾ I approach web development from an interdisciplinary perspective in order to deliver innovative solutions
+⦾ I approach web development from an interdisciplinary perspective to reach innovative solutions
 
 ⦾ My background in research is a valuable tool for solving complex problems and finding unexplored ideas for future development
 
-⦾ Producing high quality intuitive applications is my main goal as a developer
-
 ⦾ I'm always looking for new challenges and learning experiences
+
+⦾ Producing high quality intuitive applications is my main goal as a developer
 
 ⦾ I'm passionate about making valuable contributions and solving problems
 
