@@ -8,7 +8,7 @@ Hi there 👋 I'm Adriana, a full stack web developer
 
 I approach web development from an interdisciplinary perspective in order to deliver innovative solutions. 
 
-My background in research allows me not only to dissect problems but to pinpoint underdeveloped or unexplored areas. 
+My background in research enables me not only to dissect and solve complex problems but to pinpoint underdeveloped or unexplored ideas for future development.
 
 While I enjoy examining the intersections of technology with other disciplines, producing high quality intuitive applications is my main goal as a developer.
 
