@@ -19,7 +19,7 @@ Hi there 👋 I'm Adriana, a Full Stack Web Developer
 
 Skills:
 
-React / JavaScript / HTML / CSS / Python / Redux / Node / SQL / Cypress / Jest / Express / Knex/ Git / LaTeX
+React|JavaScript|HTML|CSS|Python|Redux|Node|SQL|Postgres|Jest|Express|Git|LaTeX
 
 <a href="mailto:atoledosantiago1@gmail.com" >Contact me! 📫 
 
