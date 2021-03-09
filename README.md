@@ -2,8 +2,8 @@
   <img src=https://user-images.githubusercontent.com/61773059/110417915-0ee27200-805c-11eb-96f8-9aee47ce9216.jpg> 
 </p>
 
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e4252?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atoledo4/)](https://www.linkedin.com/in/atoledo4/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-0e4252?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:atoledosantiago1@gmail.com)](mailto:atoledosantiago1@gmail.com)
 
 
 <p align="center">
@@ -33,8 +33,5 @@
 
 
 
-<a href="mailto:atoledosantiago1@gmail.com" >Contact me! 📫 
 
-
-[<img src='https://cdn3.iconfinder.com/data/icons/social-network-round-gloss-shine/512/GitHub_Social-Network-Communicate-Page-Curl-Effect-Circle-Glossy-Shadow-Shine.png' alt='github' height='40'>](https://github.com/atoledo1)[<img src='https://cdn.dribbble.com/users/2077073/screenshots/6547756/codesignal.gif' alt='codesignal' height='40' style='border-radius: 50%'>](https://app.codesignal.com/profile/adriana_t2)[<img src='https://cdn3.iconfinder.com/data/icons/social-network-round-gloss-shine/512/LinkedIn_Social-Network-Communicate-Page-Curl-Effect-Circle-Glossy-Shadow-Shine.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/atoledo4/)
 
