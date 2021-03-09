@@ -3,7 +3,7 @@
 Hi there 👋 I'm Adriana, a Full-Stack Web Developer 
 </h3>
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/61773059/108450190-5c707980-722a-11eb-914e-74c029a1f6af.jpg> 
+  <img src=https://user-images.githubusercontent.com/61773059/110417016-62ec5700-805a-11eb-996b-ce2f1c17b590.jpg> 
 </p>
 
 ⦾ My main goal is to produce high quality intuitive applications 
