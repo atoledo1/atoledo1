@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/61773059/110417915-0ee27200-805c-11eb-96f8-9aee47ce9216.jpg> 
+<a href="#"><img src=https://user-images.githubusercontent.com/61773059/110417915-0ee27200-805c-11eb-96f8-9aee47ce9216.jpg></a>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e4252?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atoledo4/)](https://www.linkedin.com/in/atoledo4/)
@@ -19,8 +19,8 @@
 ⦾ I enjoy investigating the intersections of technology, education and the arts 
 </p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0e4252?style=plastic-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-0e4252?style=plastic-square&logo=react&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-0e4252?style=plastic-square&logo=javascript&logoColor=white)](#)
+[![React](https://img.shields.io/badge/-React-0e4252?style=plastic-square&logo=react&logoColor=white)](#)
 ![Redux](https://img.shields.io/badge/-Redux-0e4252?style=plastic-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-0e4252?style=plastic-square&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-0e4252?style=plastic-square&logo=expressjs)
