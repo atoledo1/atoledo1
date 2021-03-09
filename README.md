@@ -1,10 +1,12 @@
-
-  <h3 align="center">
-Hi there 👋 I'm Adriana, a Full-Stack Web Developer 
-</h3>
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/61773059/110417016-62ec5700-805a-11eb-996b-ce2f1c17b590.jpg> 
+  <img src=https://user-images.githubusercontent.com/61773059/110417915-0ee27200-805c-11eb-96f8-9aee47ce9216.jpg> 
 </p>
+
+
+
+
+
+<p align="center">
 
 ⦾ My main goal is to produce high quality intuitive applications 
 
@@ -15,7 +17,7 @@ Hi there 👋 I'm Adriana, a Full-Stack Web Developer
 ⦾ I'm always looking for new challenges and learning experiences
 
 ⦾ I enjoy investigating the intersections of technology, education and the arts 
-
+</p>
 
 Skills:
 
