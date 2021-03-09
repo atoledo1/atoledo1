@@ -19,8 +19,6 @@
 ⦾ I enjoy investigating the intersections of technology, education and the arts 
 </p>
 
-Skills:
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=plastic-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=plastic-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-blue?style=plastic-square&logo=Redux)
@@ -32,6 +30,7 @@ Skills:
 ![Python](https://img.shields.io/badge/-Python-blue?style=plastic-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=plastic-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=plastic-square&logo=mysql&logoColor=white)
+
 
 
 <a href="mailto:atoledosantiago1@gmail.com" >Contact me! 📫 
