@@ -21,7 +21,18 @@
 
 Skills:
 
-React|JavaScript|HTML|CSS|Python|Redux|Node|SQL|Postgres|Jest|Express|Git|LaTeX
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=plastic-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=plastic-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-blue?style=plastic-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-blue?style=plastic-square&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-blue?style=plastic-square&logo=expressjs)
+![Next.js](https://img.shields.io/badge/-Next-blue?style=plastic-square&logo=Next.js)
+![HTML5](https://img.shields.io/badge/-HTML5-blue?style=plastic-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=plastic-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-blue?style=plastic-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=plastic-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=plastic-square&logo=mysql&logoColor=white)
+
 
 <a href="mailto:atoledosantiago1@gmail.com" >Contact me! 📫 
 
