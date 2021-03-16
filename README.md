@@ -16,6 +16,7 @@ About
 
 Projects in development
 
+
 ⦾ New portfolio using Next.js and Ant Design
 
 ⦾ Landing page for upcoming startup using HTML, CSS and JavaScript 
@@ -24,6 +25,7 @@ Projects in development
 
 
 Projects I'll be starting soon
+
 
 ⦾ Personal website for up and coming financial journalist
 
