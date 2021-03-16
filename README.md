@@ -33,8 +33,9 @@ Projects I'll be starting soon
 
 ⦾ Puerto Rican history educational app
 
-
 </p>
+
+
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-0e4252?style=plastic-square&logo=javascript&logoColor=white)](#)
 [![React](https://img.shields.io/badge/-React-0e4252?style=plastic-square&logo=react&logoColor=white)](#)
