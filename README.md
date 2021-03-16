@@ -7,11 +7,11 @@
 
 About
 
-⦾ I use my background in academic research a tool for solving complex problems
+⦾ I use my background in academic research as tool for solving complex problems
 
 ⦾ Coding rekindled my passion for learning and I'm always looking for new challenges and experiences
 
-⦾ I love finding unexplored ideas to explore in side projects
+⦾ I love coming up with ideas to explore in side projects
 
 
 Projects in development
