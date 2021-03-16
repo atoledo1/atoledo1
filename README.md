@@ -35,7 +35,10 @@ Projects I'll be starting soon
 
 </p>
 
+<span>
 
+
+</span
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-0e4252?style=plastic-square&logo=javascript&logoColor=white)](#)
 [![React](https://img.shields.io/badge/-React-0e4252?style=plastic-square&logo=react&logoColor=white)](#)
