@@ -4,6 +4,7 @@
 <a href="mailto:atoledosantiago1@gmail.com"><img src=https://img.shields.io/badge/-Gmail-0e4252?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:atoledosantiago1@gmail.com/></a>
   <a href="https://www.twitter.com/adriana_dev/"><img src=https://img.shields.io/badge/-Twitter-0e4252?style=plastic-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/adriana_dev/></a>  
 </p>
+
 About
 
 ⦾ I use my background in academic research a tool for solving complex problems
