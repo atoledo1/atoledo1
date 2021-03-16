@@ -4,18 +4,33 @@
 <a href="mailto:atoledosantiago1@gmail.com"><img src=https://img.shields.io/badge/-Gmail-0e4252?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:atoledosantiago1@gmail.com/></a>
   <a href="https://www.twitter.com/adriana_dev/"><img src=https://img.shields.io/badge/-Twitter-0e4252?style=plastic-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/adriana_dev/></a>  
 </p>
+About
+
+⦾ I use my background in academic research a tool for solving complex problems
+
+⦾ Coding rekindled my passion for learning and I'm always looking for new challenges and experiences
+
+⦾ I love finding unexplored ideas to explore in side projects
 
 
+Projects in development
 
-⦾ My main goal is to produce high quality intuitive applications 
+⦾ New portfolio using Next.js and Ant Design
 
-⦾ I approach web development from an interdisciplinary perspective to reach innovative solutions
+⦾ Landing page for upcoming startup using HTML, CSS and JavaScript 
 
-⦾ I use my research background as a tool for solving complex problems and finding unexplored ideas for future development
+⦾ Homeschooling React.js application as part of team 
 
-⦾ I'm always looking for new challenges and learning experiences
 
-⦾ I enjoy investigating the intersections of technology, education and the arts 
+Projects I'll be starting soon
+
+⦾ Personal website for up and coming financial journalist
+
+⦾ Lorem Ipsum generator inspired by my favorite books
+
+⦾ Puerto Rican history educational app
+
+
 </p>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-0e4252?style=plastic-square&logo=javascript&logoColor=white)](#)
