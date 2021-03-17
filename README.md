@@ -32,11 +32,11 @@
 <h2>Skills</h2>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-0e4252?style=plastic-square&logo=javascript&logoColor=white)](#)
-[![React](https://img.shields.io/badge/-React-0e4252?style=plastic-square&logo=react&logoColor=white)](#)
+[![React](https://img.shields.io/badge/-React.js-0e4252?style=plastic-square&logo=react&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/-Redux-0e4252?style=plastic-square&logo=Redux)](#)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-0e4252?style=plastic-square&logo=Node.js&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/-Express-0e4252?style=plastic-square&logo=expressjs)](#)
-[![Next.js](https://img.shields.io/badge/-Next-0e4252?style=plastic-square&logo=Next.js)](#)
+[![Nodejs](https://img.shields.io/badge/-Node.js-0e4252?style=plastic-square&logo=Node.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/-Express.js-0e4252?style=plastic-square&logo=expressjs)](#)
+[![Next.js](https://img.shields.io/badge/-Next.js-0e4252?style=plastic-square&logo=Next.js)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-0e4252?style=plastic-square&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-0e4252?style=plastic-square&logo=css3)](#)
 [![Python](https://img.shields.io/badge/-Python-0e4252?style=plastic-square&logo=python&logoColor=white)](#)
