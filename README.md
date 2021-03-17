@@ -4,7 +4,7 @@
 <a href="mailto:atoledosantiago1@gmail.com"><img src=https://img.shields.io/badge/-Gmail-0e4252?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:atoledosantiago1@gmail.com/></a>
   <a href="https://www.twitter.com/adriana_dev/"><img src=https://img.shields.io/badge/-Twitter-0e4252?style=plastic-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/adriana_dev/></a>  
 </p>
-<div>
+
 <h2>About me </h2>
 <p>
 ⦾ I use my background in academic research as tool for solving complex problems
@@ -13,9 +13,6 @@
 
 ⦾ I love coming up with ideas to explore in side projects
 </p>
-
-
-
 
 <h2>Current Projects<h2/>
 <p>
@@ -36,7 +33,7 @@
 ⦾ Puerto Rican history educational app
 </p>
 
-</div>
+
 
 <h2>Skills</h2>
 
