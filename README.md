@@ -4,29 +4,31 @@
 <a href="mailto:atoledosantiago1@gmail.com"><img src=https://img.shields.io/badge/-Gmail-0e4252?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:atoledosantiago1@gmail.com/></a>
   <a href="https://www.twitter.com/adriana_dev/"><img src=https://img.shields.io/badge/-Twitter-0e4252?style=plastic-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/adriana_dev/></a>  
 </p>
-
-About
-
+<div>
+<h2>About me </h2>
+  <p>
 ⦾ I use my background in academic research as tool for solving complex problems
 
 ⦾ Coding rekindled my passion for learning and I'm always looking for new challenges and experiences
 
 ⦾ I love coming up with ideas to explore in side projects
+</p>
 
-
-Projects in development
-
-
+</div>
+<div>
+<h2>Current Projects <h2/>
+<p>
 ⦾ New portfolio using Next.js and Ant Design
 
 ⦾ Landing page for upcoming startup using HTML, CSS and JavaScript 
 
 ⦾ Homeschooling React.js application as part of team 
+</p>
+</div>
+<div>
+<h2>Upcoming Projects </h2>
 
-
-Projects I'll be starting soon
-
-
+<p>
 ⦾ Personal website for up and coming financial journalist
 
 ⦾ Lorem Ipsum generator inspired by my favorite books
@@ -34,9 +36,9 @@ Projects I'll be starting soon
 ⦾ Puerto Rican history educational app
 
 </p>
+</div>
 
-<br>
-
+<h2>Skills</h2>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-0e4252?style=plastic-square&logo=javascript&logoColor=white)](#)
 [![React](https://img.shields.io/badge/-React-0e4252?style=plastic-square&logo=react&logoColor=white)](#)
@@ -49,6 +51,8 @@ Projects I'll be starting soon
 [![Python](https://img.shields.io/badge/-Python-0e4252?style=plastic-square&logo=python&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0e4252?style=plastic-square&logo=postgresql)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-0e4252?style=plastic-square&logo=mysql&logoColor=white)](#)
+
+
 
 
 
