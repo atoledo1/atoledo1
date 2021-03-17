@@ -6,8 +6,7 @@
 </p>
 <div>
 <h2>About me </h2>
-  <p>
-  
+<p>
 ⦾ I use my background in academic research as tool for solving complex problems
 
 ⦾ Coding rekindled my passion for learning and I'm always looking for new challenges and experiences
@@ -19,13 +18,12 @@
 
 
 <h2>Current Projects<h2/>
- <p>
+<p>
 ⦾ New portfolio using Next.js and Ant Design
 
 ⦾ Landing page for upcoming startup using HTML, CSS and JavaScript 
 
 ⦾ Homeschooling React.js application as part of team 
-
 </p>
 
 
