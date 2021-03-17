@@ -5,35 +5,29 @@
   <a href="https://www.twitter.com/adriana_dev/"><img src=https://img.shields.io/badge/-Twitter-0e4252?style=plastic-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/adriana_dev/></a>  
 </p>
 
-<h2>About me </h2>
-<p>
+<h2>About me</h2>
+
 ⦾ I use my background in academic research as tool for solving complex problems
 
 ⦾ Coding rekindled my passion for learning and I'm always looking for new challenges and experiences
 
 ⦾ I love coming up with ideas to explore in side projects
-</p>
 
 <h2>Current Projects<h2/>
-<p>
+
 ⦾ New portfolio using Next.js and Ant Design
 
 ⦾ Landing page for upcoming startup using HTML, CSS and JavaScript 
 
 ⦾ Homeschooling React.js application as part of team 
-</p>
-
 
 <h2>Upcoming Projects</h2>
-<p>
+
 ⦾ Personal website for up and coming financial journalist
 
 ⦾ Lorem Ipsum generator inspired by my favorite books
 
 ⦾ Puerto Rican history educational app
-</p>
-
-
 
 <h2>Skills</h2>
 
