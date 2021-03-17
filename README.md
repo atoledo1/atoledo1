@@ -13,7 +13,7 @@
 
 ⦾ I love coming up with ideas to explore in side projects
 
-<h2>Current Projects<h2/>
+<h2>Current Projects</h2>
 
 ⦾ New portfolio using Next.js and Ant Design
 
