@@ -15,7 +15,7 @@
 ⦾ I love coming up with ideas to explore in side projects
 </p>
 
-</div>
+
 
 
 <h2>Current Projects<h2/>
@@ -28,14 +28,15 @@
 
 </p>
 
-<div>
-<h2>Upcoming Projects</h2>
 
+<h2>Upcoming Projects</h2>
+<p>
 ⦾ Personal website for up and coming financial journalist
 
 ⦾ Lorem Ipsum generator inspired by my favorite books
 
 ⦾ Puerto Rican history educational app
+</p>
 
 </div>
 
