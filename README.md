@@ -21,7 +21,7 @@
 
 ⦾ Homeschooling React.js application as part of team 
 
-<h2>Upcoming Projects</h2>
+<h2>Coming Soon</h2>
 
 ⦾ Personal website for up and coming financial journalist
 
