@@ -15,9 +15,9 @@
 
 <h2>Current Projects</h2>
 
-⦾ Updated personal portfolio using Next.js and Ant Design
+⦾ Updated personal portfolio using Next.js, Ant Design and Ant Motion
 
-⦾ Landing page for upcoming startup using HTML, CSS and JavaScript 
+⦾ Comercial landing page for startup using HTML, CSS and JavaScript 
 
 ⦾ Homeschooling React.js application as part of developer team 
 
