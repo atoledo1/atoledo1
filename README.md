@@ -19,7 +19,7 @@
 
 ⦾ Landing page for upcoming startup using HTML, CSS and JavaScript 
 
-⦾ Homeschooling React.js application as part of team 
+⦾ Homeschooling React.js application as part of developer team 
 
 <h2>Coming Soon</h2>
 
