@@ -23,7 +23,7 @@
 
 <h2>Coming Soon</h2>
 
-⦾ Personal website for up and coming financial journalist
+⦾ Portfolio website for up and coming financial journalist
 
 ⦾ Lorem Ipsum generator inspired by my favorite books
 
