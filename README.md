@@ -17,9 +17,11 @@
 
 ⦾ Updated personal portfolio using Next.js, Ant Design and Ant Motion
 
-⦾ Comercial landing page for startup using HTML, CSS and JavaScript 
-
 ⦾ Homeschooling React.js application as part of developer team 
+
+⦾Python Data Scrapper for Startup
+
+
 
 <h2>Coming Soon</h2>
 
