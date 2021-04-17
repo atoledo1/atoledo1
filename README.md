@@ -15,7 +15,7 @@
 
 <h2>Current Projects</h2>
 
-⦾ Updated personal portfolio using Next.js, Ant Design and Ant Motion
+⦾ Updated personal portfolio using Next.js, Ant Design and Framer
 
 ⦾ Homeschooling React.js application as part of developer team 
 
@@ -23,7 +23,7 @@
 
 
 
-<h2>Coming Soon</h2>
+<h2>Coming up next</h2>
 
 ⦾ Portfolio website for up and coming financial journalist
 
