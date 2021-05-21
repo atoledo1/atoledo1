@@ -13,23 +13,49 @@
 
 ⦾ I love coming up with ideas to explore in side projects
 
+⦾Currently obsessed with oscure CSS frameworks and libraries
+
+
 <h2>Current Projects</h2>
 
-⦾ Updated personal portfolio using Next.js, Ant Design and Framer
+⦾ Portfolio 
 
-⦾ Homeschooling React.js application as part of developer team 
+⦾ Homeschooling app as part of a team
 
-⦾Python Data Scrapper for Startup
+⦾ Python Bot for Startup
+
+⦾ Digital Garden (side project)
+
+⦾ Skincare App (side project)
+
+⦾ Rework old marketing page for SleepTracker (expanded Lambda Build Week project)
+
+⦾ Ruby on Rails blog (side project)
 
 
 
-<h2>Coming up next</h2>
+
+<h2>Next Projects</h2>
 
 ⦾ Portfolio website for up and coming financial journalist
 
-⦾ Lorem Ipsum generator inspired by my favorite books
+⦾ Lorem Ipsum generator using my favorite books/Latin American Literature/Medieval Literature
 
-⦾ Puerto Rican history educational app
+⦾ Forgotten history, an interactive e-learning app 
+
+⦾ Expand and deploy text-based python adventure
+
+
+
+
+<h2>Currently Learning</h2>
+
+⦾ Ruby on Rails
+⦾ Firebase
+⦾ SVG styling and animation
+
+
+
 
 <h2>Skills</h2>
 
