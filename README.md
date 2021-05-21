@@ -13,7 +13,7 @@
 
 ⦾ I love coming up with ideas to explore in side projects
 
-⦾Currently obsessed with small and quirky CSS frameworks and libraries
+⦾ Currently obsessed with small and quirky CSS frameworks and libraries
 
 
 <h2>Current Projects</h2>
